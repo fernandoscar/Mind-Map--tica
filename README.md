@@ -1,13 +1,14 @@
-# Evolução da Web: Marcos Históricos e Engenharia de Software
-
-Repositório destinado à atividade de mapeamento da evolução da Web e análise do seu impacto na Engenharia de Software.
+Repositório destinado à atividade de mapeamento das evoluções e dilemas éticos na Web, com análise do seu impacto na Engenharia de Software.
 
 ## 🗺️ Mapa Conceitual
-Abaixo está a representação visual dos principais marcos históricos Éticos que moldaram a Web como a conhecemos hoje:
+Abaixo está a representação visual dos principais marcos éticos, regulamentações e desafios na história da Web:
 
-![Mapa Conceitual](./assets/Mind_Map.png) 
+![Mapa Conceitual](./ativos/Mind_Map.png) 
 
 ## 📝 Reflexão Individual
-A evolução das tecnologias web (do HTML estático à complexidade do ecossistema JavaScript atual) mudou as demandas e a arquitetura de sistemas. No arquivo de reflexão, abordo os impactos dessa transição no desenvolvimento de software e na sociedade.
+A evolução da Web trouxe desafios complexos sobre privacidade, coleta de dados, acessibilidade e responsabilidade algorítmica. No arquivo de reflexão, analiso como essas questões éticas moldam as decisões na Engenharia de Software e a responsabilidade de quem constrói essas soluções.
 
 [Acessar a reflexão completa](./reflexao.md)
+
+---
+**Autor:** [Fernando Carvalho](https://www.linkedin.com/in/FHC-/)
